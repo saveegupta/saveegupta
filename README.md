@@ -1,3 +1,4 @@
+![logo](https://github.com/saveegupta/saveegupta/blob/main/saveegupta.jpeg)
 <h1 align="center">Hi 👋, I'm Savee Gupta</h1>
 <h3 align="center">"AI Enthusiast | M.Tech in Computer Science (AI) | Machine Learning & Deep Learning Researcher"</h3>
 
