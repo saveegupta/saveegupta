@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Savee Gupta</h1>
 <h3 align="center">"AI Enthusiast | M.Tech in Computer Science (AI) | Machine Learning & Deep Learning Researcher"</h3>
-<img align = "right" alt="coding" width="400" src="https://sl.bing.net/emmQZuusPIW">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saveegupta&label=Profile%20views&color=0e75b6&style=flat" alt="saveegupta" /> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@saveegupta672](https://medium.com/@saveegupta672)
