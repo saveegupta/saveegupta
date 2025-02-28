@@ -1,7 +1,7 @@
 ![logo](https://github.com/saveegupta/saveegupta/blob/main/saveegupta.jpeg)
 <h1 align="center">Hi 👋, I'm Savee Gupta</h1>
 <h3 align="center">"AI Enthusiast | M.Tech in Computer Science (AI) | Machine Learning & Deep Learning Researcher"</h3>
-
+<img align="right" alt="Coding" width="400" src="https://www.rofazayn.com/images/hero.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saveegupta&label=Profile%20views&color=0e75b6&style=flat" alt="saveegupta" /> </p>
 
