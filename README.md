@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **saveegupta672@gmail.com**
 
-- 📄 Know about my experiences (RESUME) [https://drive.google.com/file/d/1lDlsJ0L7ubu9QuWNunJz81FIIXS6MJNV/view?usp=sharing](https://drive.google.com/file/d/1lDlsJ0L7ubu9QuWNunJz81FIIXS6MJNV/view?usp=sharing)
+- 📄 Know about my experiences (RESUME) [https://drive.google.com/file/d/1DwBpWshN_JyfMMg5Dhv2jY5TZuLznW0J/view?usp=sharing](https://drive.google.com/file/d/1DwBpWshN_JyfMMg5Dhv2jY5TZuLznW0J/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
