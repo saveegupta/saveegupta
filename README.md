@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saveegupta&label=Profile%20views&color=0e75b6&style=flat" alt="saveegupta" /> </p>
 
+- 🚀 Explore my portfolio to see projects, skills, and experiences in data science and AI: [Portfolio Link](https://saveegupta672.wixsite.com/my-site-2)
+
 - 📝 I regularly write articles on [https://medium.com/@saveegupta672](https://medium.com/@saveegupta672)
 
 - 💬 Ask me about **C,Java,Python,R,MongoDB,SQL,Numpy,Pandas,Matplotlib,Excel,PowerBI,Machine Learning,Deep learning,Computer Vision**
